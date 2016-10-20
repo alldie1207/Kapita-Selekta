@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/alldie1207/Kapita-Selekta/blob/master/Img/github.png" width="400px">
+</p>
 ## Github
 
 GitHub merupakan layanan penyedia penginangan web untuk  proyek pengembangan perangkat lunak yang dapat digunakan bersama dengan menggunakan sistem pengontrol versi Git. GitHub memiliki paket gratis dan prabayar untuk proyek sumber terbuka. Github sendiri  mulain dilpublikasi dan diluncurkan sejak tahun 2008.
